@@ -1,5 +1,7 @@
-<div align="center"> 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1600&color=3F8CFF&center=true&vCenter=true&width=460&lines=Abdulkarim.;Flutter+Developer.)
+<h2 align="center">Hi, I'm Abdulkarim 👋</h2>
 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=380&lines=Software+Engineering+Student;Learning+Flutter+%26+Dart;Building+Step+by+Step" />
+</p>
+
 
